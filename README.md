@@ -1,10 +1,10 @@
 >> ANOTAÇÕES
 
-API TOKEN: 6083297671:AAEx6pVBTfsLZ0-Kqq048eVqaLQKgi8sVW4
+API TOKEN: ...
 
-NOME DO BOT: @MecloveBot
+NOME DO BOT: ...
 
-ID do CHAT GROUP: 1002444177777 
+ID do CHAT GROUP: ... 
 
 ENDPOINT DO TELEGRAM:
 https://api.telegram.org/bot<TOKEN>/
