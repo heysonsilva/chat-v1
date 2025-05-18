@@ -31,13 +31,13 @@ Content-Length: <TAMANHO_DO_CORPO>
   "ok": true,
   "result": [
     {
-      "update_id": 372105685,
+      "update_id": number,
       "message": {
-        "message_id": 2,
+        "message_id": number,
         "from": {
-          "id": 5021057327,
-          "is_bot": false,
-          "first_name": "meclLove",
+          "id": number,
+          "is_bot": boolean,
+          "first_name": string,
           "language_code": "pt-br"
         }
         },
